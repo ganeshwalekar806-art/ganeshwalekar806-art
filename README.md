@@ -1,12 +1,25 @@
 # Hi there, I'm Ganesh 👋
 
 - 🎓 Currently studying in **12th Standard** & balancing academics with coding.
-- 💻 Learning **C Language** & **Data Structures & Algorithms (DSA)**.
-- 🎯 Goal: Build a strong foundation in problem-solving and computer science.
+- 💡 Highly passionate about **Software Development & Problem Solving**.
+- 🛠️ Proficient in **C Language, SQL & Data Structures (DSA)** (Focused on Linked Lists).
 - ⚡ Daily Habit: Solving 1 LeetCode problem every night.
 
-### 🛠️ Languages & Tools
-- **Language:** C Language
+---
+
+### 🚀 Projects Built in C Language
+- 📌 **Student Management System** – C file handling project to track student records.
+- 📌 **Student Management System (Database Connected)** – Advanced system integrated with database.
+- 📌 **Stock Management System** – Inventory tracking application.
+- 📌 **Bank Operations Simulator** – ATM features (Withdraw, Deposit, PIN Change, Balance Check).
+- 📌 **Ball Sort Puzzle Game** – Logic-based mini game in C.
+- 📌 **Linked List & DSA Practice** – Implementation of custom Linked Lists and data structures.
+
+---
+
+### 🛠️️ Languages & Tools
+- **Languages:** C, SQL
+- **Core Concepts:** Data Structures (Linked Lists), File Handling, Logic Building
 - **Platforms:** LeetCode, GitHub, LinkedIn
 
 ---

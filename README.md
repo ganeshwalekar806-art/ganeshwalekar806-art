@@ -2,8 +2,11 @@
 
 - 🎓 Currently studying in **12th Standard** & balancing academics with coding.
 - 💡 Highly passionate about **Software Development & Problem Solving**.
-- 🛠️ Proficient in **C Language, SQL & Data Structures (DSA)** (Focused on Linked Lists).
-- ⚡ Daily Habit: Solving 1 LeetCode problem every night.
+- 🛠️ Proficient in **C Language, SQL & Data Structures** (Focused on Linked Lists).
+- ⚡ **Daily Habit & Mindset:**
+  - Solving 1 LeetCode problem every night.
+  - Exploring 1 new Tech Concept / Developer Tool daily.
+  - 🐞 **I love encountering bugs & errors** — finding and fixing them is where real learning happens!
 
 ---
 
@@ -17,9 +20,9 @@
 
 ---
 
-### 🛠️️ Languages & Tools
+### 🛠️ Languages & Tools
 - **Languages:** C, SQL
-- **Core Concepts:** Data Structures (Linked Lists), File Handling, Logic Building
+- **Core Concepts:** Data Structures (Linked Lists), File Handling, Debugging & Logic Building
 - **Platforms:** LeetCode, GitHub, LinkedIn
 
 ---
